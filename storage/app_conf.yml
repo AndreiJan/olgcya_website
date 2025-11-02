@@ -1,0 +1,7 @@
+version: 1
+datastore:
+  user: root
+  password: Password@12
+  hostname: localhost
+  port: 3306  # Changed from 3307 to 3306 to match your docker-compose
+  db: user_data

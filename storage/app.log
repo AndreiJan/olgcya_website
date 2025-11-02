@@ -1,0 +1,23 @@
+2025-10-26 19:15:23,696 - basicLogger - INFO - Connected to the database
+2025-10-26 19:16:09,787 - basicLogger - INFO - Connected to the database
+2025-10-26 19:17:05,809 - basicLogger - ERROR - Error: 'hostname'
+2025-10-26 19:17:13,887 - basicLogger - INFO - Connected to the database
+2025-10-26 19:17:21,601 - basicLogger - INFO - Connected to the database
+2025-10-26 19:17:44,388 - basicLogger - ERROR - Error: 'hostname'
+2025-10-26 19:17:58,937 - basicLogger - ERROR - Error: 'hostname'
+2025-10-26 19:23:37,938 - basicLogger - ERROR - Error: 'hostname'
+2025-10-26 19:24:55,702 - basicLogger - ERROR - Error: 'hostname'
+2025-10-26 19:26:26,024 - basicLogger - ERROR - Error: 'hostname'
+2025-10-26 21:42:55,483 - basicLogger - INFO - Connected to the database
+2025-10-26 21:44:14,147 - basicLogger - INFO - Connected to the database
+2025-10-26 21:44:59,493 - basicLogger - INFO - Connected to the database
+2025-10-26 21:45:35,927 - basicLogger - INFO - Connected to the database
+2025-10-26 21:46:33,157 - basicLogger - INFO - Connected to the database
+2025-10-26 21:49:19,479 - basicLogger - INFO - Connected to the database
+2025-10-26 21:49:19,479 - basicLogger - INFO - Error: 'Engine' object has no attribute 'cursor'
+2025-10-26 21:49:27,953 - basicLogger - INFO - Connected to the database
+2025-10-26 21:49:27,953 - basicLogger - INFO - Error: 'Engine' object has no attribute 'cursor'
+2025-10-26 21:51:53,479 - basicLogger - INFO - Database created/verified
+2025-10-26 21:51:53,479 - basicLogger - INFO - Connected to the database
+2025-10-26 21:51:57,209 - basicLogger - INFO - Database created/verified
+2025-10-26 21:51:57,209 - basicLogger - INFO - Connected to the database

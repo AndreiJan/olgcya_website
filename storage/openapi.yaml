@@ -1,0 +1,43 @@
+openapi: 3.0.0
+info: #Metadata regarding the API
+  title: Forest Fire Storage API # name of the API or what will be shown in Swagger UI
+  version: "1.0.0" # API's version number
+  description: Persists single readings to SQLite via SQLAlchemy. #What the API does
+
+paths:
+  /users_emails: 
+    post:
+      summary: Store one temperature reading
+      operationId: app.create_temperature_reading #Points to this one, but not really functional or needed really.
+      requestBody: #This kind of defines what data must be sent in the request
+        required: true #This makes it required, or it will fail
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserReadings' #- References the schema definition at the bottom of the file
+      responses:
+        '201':
+          description: Stored
+        '400':
+          description: Invalid input
+components: #This section basically defines the structure of a TEMPERATURE/AIR QUALITY reading
+  schemas:
+    UserReadings:
+      type: object
+      required:
+        - first_name
+        - last_name
+        -  email
+      properties: #Defines each field in the schema
+        first_name:
+          type: string
+          example: Andrei
+        last_name:
+          type: string
+          example: Mendoza
+        email:
+          type: string
+          example: ajhmendoza309@gmail.com
+        phonenumber:
+          type: string
+          example: "6043408938"
