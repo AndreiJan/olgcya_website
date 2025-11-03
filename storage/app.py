@@ -100,7 +100,6 @@ def create_users(body):
 
 
 
-# I changed the name of the lab1.yaml from the receiver folder to openapi.yaml
 app = connexion.App(__name__, specification_dir=".")
 app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
 
