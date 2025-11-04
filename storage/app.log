@@ -21,3 +21,215 @@
 2025-10-26 21:51:53,479 - basicLogger - INFO - Connected to the database
 2025-10-26 21:51:57,209 - basicLogger - INFO - Database created/verified
 2025-10-26 21:51:57,209 - basicLogger - INFO - Connected to the database
+2025-11-04 00:20:13,294 - basicLogger - INFO - Database created/verified
+2025-11-04 00:20:13,295 - basicLogger - INFO - Connected to the database
+2025-11-04 00:20:23,174 - basicLogger - INFO - Database created/verified
+2025-11-04 00:20:23,175 - basicLogger - INFO - Connected to the database
+2025-11-04 00:22:54,492 - basicLogger - INFO - Database created/verified
+2025-11-04 00:22:54,492 - basicLogger - INFO - Connected to the database
+2025-11-04 00:23:00,378 - basicLogger - INFO - Database created/verified
+2025-11-04 00:23:00,378 - basicLogger - INFO - Connected to the database
+2025-11-04 00:23:20,540 - basicLogger - INFO - Database created/verified
+2025-11-04 00:23:20,540 - basicLogger - INFO - Connected to the database
+2025-11-04 00:23:20,606 - basicLogger - INFO - Database created/verified
+2025-11-04 00:23:20,606 - basicLogger - INFO - Connected to the database
+2025-11-04 00:23:27,832 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:27,851 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:27,954 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:27,960 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,063 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,069 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,156 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,161 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,236 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,244 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,330 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,336 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,468 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,473 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,546 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,552 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,640 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,646 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,735 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:28,740 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:29,933 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:29,940 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,027 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,033 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,120 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,127 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,230 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,236 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,322 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,329 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,386 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,393 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,525 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,531 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,603 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,610 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,697 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,704 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,806 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:30,812 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,007 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,012 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,101 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,107 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,164 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,171 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,288 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,293 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,382 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,388 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,430 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,437 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,599 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,605 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,662 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,668 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,753 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,760 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,848 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:32,854 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,065 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,080 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,158 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,165 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,251 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,258 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,346 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,352 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,423 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,430 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,486 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,493 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,671 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,678 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,735 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,742 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,812 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,819 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,889 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:34,896 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,113 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,118 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,223 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,229 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,301 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,309 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,380 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,385 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,457 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,463 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,536 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,542 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,722 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,728 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,800 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,806 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,846 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,852 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,939 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:36,946 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,157 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,172 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,266 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,273 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,374 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,380 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,484 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,491 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,517 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,524 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,612 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,618 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,800 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,807 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,848 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,855 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,895 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:38,902 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:39,021 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:39,026 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,219 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,226 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,329 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,336 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,438 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,444 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,532 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,539 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,579 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,586 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,686 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,693 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,859 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,865 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,936 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,943 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,952 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:40,959 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:41,076 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:41,082 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,278 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,294 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,419 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,425 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,498 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,504 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,607 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,613 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,639 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,646 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,732 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,738 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,904 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,909 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,982 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,982 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,987 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:42,991 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:43,121 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:43,128 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,316 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,324 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,441 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,447 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,566 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,573 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,644 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,651 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,707 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,713 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,769 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,775 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,970 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:44,977 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:45,035 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:45,035 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:45,042 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:45,045 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:45,145 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:45,152 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,377 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,384 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,488 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,494 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,612 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,619 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,690 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,697 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,752 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,759 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,815 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:46,820 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,031 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,038 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,095 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,095 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,101 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,104 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,205 - basicLogger - DEBUG - Storing user: ajhmendoza309@gmail.com
+2025-11-04 00:23:47,211 - basicLogger - DEBUG - Stored user with email: ajhmendoza309@gmail.com

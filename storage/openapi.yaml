@@ -7,8 +7,8 @@ info: #Metadata regarding the API
 paths:
   /users_emails: 
     post:
-      summary: Store one temperature reading
-      operationId: app.create_temperature_reading #Points to this one, but not really functional or needed really.
+      summary: Store one user email registration
+      operationId: app.create_users #Points to the create_users function in storage app.py
       requestBody: #This kind of defines what data must be sent in the request
         required: true #This makes it required, or it will fail
         content:

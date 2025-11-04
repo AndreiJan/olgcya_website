@@ -85,17 +85,30 @@ class Users(Base):
 
 def create_users(body):
     session = SessionLocal()
+    logger.debug(f"Storing user: {body.get('email')}")
+    
+    date_joined_value = body.get("date_joined")
+    if isinstance(date_joined_value, str):
+        try:
+            # Try to parse the date string (format: YYYY-MM-DD)
+            date_joined_value = datetime.datetime.strptime(date_joined_value, "%Y-%m-%d")
+        except ValueError:
+            # If parsing fails, use current datetime
+            date_joined_value = datetime.datetime.now()
+    elif date_joined_value is None:
+        date_joined_value = datetime.datetime.now()
+    
     event = Users(
-        
         first_name=body["first_name"],
         last_name=body["last_name"],
         email=body["email"],
-        phonenumber=body["phonenumber"],
-        date_joined= datetime.datetime.now() ,
+        phonenumber=body.get("phonenumber"),  # Use .get() since it's optional
+        date_joined=date_joined_value,
     )
     session.add(event)
     session.commit()
     session.close()
+    logger.debug(f"Stored user with email: {body['email']}")
     return {"message": "stored"}, 201
 
 
